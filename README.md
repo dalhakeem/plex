@@ -1,7 +1,6 @@
 I made this project just for fun. Please feel free to make any modifications you see fit. The information required to run this is listed below. 
 
-Below is the repo on hub.docker.com
-https://hub.docker.com/r/davidks10/plexms
+Below is the repo on https://hub.docker.com/r/davidks10/plexms
 
 # Running Plex Media Server in Docker
 
