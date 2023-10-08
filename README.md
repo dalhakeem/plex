@@ -37,7 +37,7 @@ services:
     network_mode: "host"
     environment:
       - TZ=America/Chicago
-      - PLEX_CLAIM=claim-ys35yruRSVSqzBCxn7r-
+      - PLEX_CLAIM=claim-ys35yruRSVSqzBC347r-
     volumes:
       - /path/to/plex/config:/config
       - /path/to/media:/media
